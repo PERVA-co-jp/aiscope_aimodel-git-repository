@@ -1,0 +1,11 @@
+{
+    "hyperparameter": 1,
+    "training": 6,
+    "model_eval_in_use": "output_train/1_6_20241212010015/models_evaluation_1_6_20241212010015.pickle",
+    "model_profit_in_use": "output_train/1_6_20241212010015/models_profit_1_6_20241212010015.pickle",
+    "hyperparameters_eval_in_use": "output_train/best_parameters_lightgbm.json",
+    "hyperparameters_profit_in_use": "output_train/best_parameters_profit_lightgbm.json",
+    "evaluation_folder_in_use": "output_train/1_6_20241212010015/evaluation",
+    "train_data": "output_train/1_6_20241212010015/train_dataset_1_6_20241212010015.csv",
+    "test_data": "output_train/1_6_20241212010015/test_dataset_1_6_20241212010015.csv"
+}

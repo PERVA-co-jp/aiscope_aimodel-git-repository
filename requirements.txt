@@ -1,0 +1,12 @@
+openai
+pandas
+sqlalchemy
+sshtunnel
+scikit-learn
+matplotlib
+seaborn
+japanize-matplotlib
+lightgbm
+fastapi
+uvicorn[standard]
+pymysql
